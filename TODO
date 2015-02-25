@@ -1,0 +1,2 @@
+At this moment we need to create a communication between the server, application(android,ios,windows),web and database.
+The content for communication is the server receives the Name,Sex,Address,Contact No,E-mail IDs.
